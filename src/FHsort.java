@@ -1,6 +1,3 @@
-package week09_part01;
-
-
 public class FHsort
 {
     // insertion sort -----------------------------------------------------
