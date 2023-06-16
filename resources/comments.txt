@@ -1,0 +1,8 @@
+The graph shows massive (in terms of nanoseconds) spikes for two array sizes, 6520000 and 7020000.
+
+I believe these represent more intense computer usage of other programs during that period,
+resulting in longer processing time. If this data were being used to make decisions rather than as part of an
+exercise, it would be necessary to ensure the process was as thoroughly sanitized and uniform as possible.
+
+That aside, the point at which the lines begin to curve upward is around 2020000, so I would suggest 1520000
+as an optimal recursion limit.
